@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/moss-rb/notebook.git
+  revision: f0decefb17fd8b62fa252475e04fa447cf978fb4
+  specs:
+    notebook (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -138,6 +144,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   jquery-rails
+  notebook!
   rails (= 4.2.4)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
