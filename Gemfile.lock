@@ -1,5 +1,6 @@
-PATH
-  remote: ../notebook
+GIT
+  remote: git://github.com/moss-rb/notebook.git
+  revision: eebddfe3fc3b645c3aa53b2b4d8f395510766e28
   specs:
     notebook (0.0.1)
 
